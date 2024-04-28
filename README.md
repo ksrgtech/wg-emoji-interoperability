@@ -57,6 +57,8 @@
 * funamu式blobcatシリーズ: Apache-2.0 ([出典][license-funyapu])
 * 鳩類シリーズ: カスタム ([出典][license-hatorui])
   * 絵文字としての利用は自由
+* sanagi作おばけシリーズ: カスタム ([出典][license-sanagi-ghost])
+  * インポート前連絡: 不要
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
 
 ## 参考
@@ -71,3 +73,4 @@
 [license-mewl-otaku]: https://mewl.me/notes/818c6815dfc7efabde9b612e
 [license-funyapu]: https://misskey.io/@funamusea/pages/blobcat_fu
 [license-hatorui]: https://calc.rettuce.page/@rns_8i8/pages/hatorui-emoji
+[license-sanagi-ghost]: https://maniakey.homes/@sanagi/pages/1709985753046
