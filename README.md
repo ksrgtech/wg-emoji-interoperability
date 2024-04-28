@@ -52,6 +52,7 @@
 * usagoシリーズ: CC BY-ND 3.0 ([出典][license-9min])
 * moniaシリーズ: CC BY-ND 3.0 ([出典][license-9min])
 * `:bakedmochocho_instance:`、`:bakedmochocho_instance_petthex:`、及び`:mixing_natto:`: CC BY-SA 3.0 ([出典][license-9min])
+* bunhdシリーズ: Apache-2.0 ([出典][license-volpeon])
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
 
 ## 参考
@@ -61,3 +62,5 @@
 
 [license-9min]: https://rustearain.space/@9min_packup/pages/1699656044952
 [license-blobzaurusu]: https://rustearain.space/@9min_packup/pages/1692008329294
+[license-volpeon]: https://volpeon.ink/emojis/bunhd/
+
