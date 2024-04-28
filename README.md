@@ -54,6 +54,7 @@
 * `:bakedmochocho_instance:`、`:bakedmochocho_instance_petthex:`、及び`:mixing_natto:`: CC BY-SA 3.0 ([出典][license-9min])
 * bunhdシリーズ: Apache-2.0 ([出典][license-volpeon])
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
+* Misskeyのロゴ: CC BY-NC-SA 
 
 ## 参考
 * https://www.emojiall.com/ja/help-are-emojis-copyrighted
