@@ -1,4 +1,4 @@
-![image](https://github.com/ksrgtech/wg-emoji-interoperability/assets/48310258/f4043638-26eb-4f76-909d-aadc2a82d86a)# Emoji Interoperability Working Group
+# Emoji Interoperability Working Group
 
 ## これは何？
 絵文字の相互運用性を確保するためのワーキンググループです。ksrgtechが親組織となっています。
@@ -59,6 +59,7 @@
 
 ## 参考
 * https://www.emojiall.com/ja/help-are-emojis-copyrighted
+* https://misskey.io/tags/ioカスタム絵文字申請
 
 [^1]: 「思想又は感情を創作的に表現したものであつて、文芸、学術、美術又は音楽の範囲に属するものをいう。」
 
