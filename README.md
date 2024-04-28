@@ -1,4 +1,4 @@
-# Emoji Interoperability Working Group
+![image](https://github.com/ksrgtech/wg-emoji-interoperability/assets/48310258/f4043638-26eb-4f76-909d-aadc2a82d86a)# Emoji Interoperability Working Group
 
 ## これは何？
 絵文字の相互運用性を確保するためのワーキンググループです。ksrgtechが親組織となっています。
@@ -13,7 +13,7 @@
 (※絵文字の作者については敬称略)
 
 * 9min_packupによって作成されたblobcatシリーズ: Apache-2.0 ([出典][license-9min])
-  * <details>
+  <details>
     <summary>これには、以下が含まれる:</summary>
     
     * `:ablobcatcomfy_spin:`
@@ -54,6 +54,7 @@
 * `:bakedmochocho_instance:`、`:bakedmochocho_instance_petthex:`、及び`:mixing_natto:`: CC BY-SA 3.0 ([出典][license-9min])
 * bunhdシリーズ: Apache-2.0 ([出典][license-volpeon])
 * オタク、お得、お買い得、損、大損: WTFPL ([出典][license-mewl-otaku])
+* funamu式blobcatシリーズ: Apache-2.0 ([出典][license-funyapu])
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
 
 ## 参考
@@ -65,3 +66,4 @@
 [license-blobzaurusu]: https://rustearain.space/@9min_packup/pages/1692008329294
 [license-volpeon]: https://volpeon.ink/emojis/bunhd/
 [license-mewl-otaku]: https://mewl.me/notes/818c6815dfc7efabde9b612e
+[license-funyapu]: https://misskey.io/@funamusea/pages/blobcat_fu
