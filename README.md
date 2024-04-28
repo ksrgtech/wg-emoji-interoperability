@@ -55,6 +55,8 @@
 * bunhdシリーズ: Apache-2.0 ([出典][license-volpeon])
 * オタク、お得、お買い得、損、大損: WTFPL ([出典][license-mewl-otaku])
 * funamu式blobcatシリーズ: Apache-2.0 ([出典][license-funyapu])
+* 鳩類シリーズ: カスタム ([出典][license-hatorui])
+  * 絵文字としての利用は自由
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
 
 ## 参考
@@ -68,3 +70,4 @@
 [license-volpeon]: https://volpeon.ink/emojis/bunhd/
 [license-mewl-otaku]: https://mewl.me/notes/818c6815dfc7efabde9b612e
 [license-funyapu]: https://misskey.io/@funamusea/pages/blobcat_fu
+[license-hatorui]: https://calc.rettuce.page/@rns_8i8/pages/hatorui-emoji
