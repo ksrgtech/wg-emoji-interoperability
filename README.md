@@ -53,6 +53,7 @@
 * moniaシリーズ: CC BY-ND 3.0 ([出典][license-9min])
 * `:bakedmochocho_instance:`、`:bakedmochocho_instance_petthex:`、及び`:mixing_natto:`: CC BY-SA 3.0 ([出典][license-9min])
 * bunhdシリーズ: Apache-2.0 ([出典][license-volpeon])
+* オタク、お得、お買い得、損、大損: WTFPL ([出典][license-mewl-otaku])
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
 
 ## 参考
@@ -63,4 +64,4 @@
 [license-9min]: https://rustearain.space/@9min_packup/pages/1699656044952
 [license-blobzaurusu]: https://rustearain.space/@9min_packup/pages/1692008329294
 [license-volpeon]: https://volpeon.ink/emojis/bunhd/
-
+[license-mewl-otaku]: https://mewl.me/notes/818c6815dfc7efabde9b612e
