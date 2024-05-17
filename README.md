@@ -60,6 +60,7 @@
 * sanagi作おばけシリーズ: カスタム ([出典][license-sanagi-ghost])
   * インポート前連絡: 不要
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
+* `:blobcat_cut:`: CC BY-NC-ND 4.0 (`@07770_@mfmf.club`)
 
 ## 参考
 * https://www.emojiall.com/ja/help-are-emojis-copyrighted
