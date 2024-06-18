@@ -60,7 +60,7 @@
 * sanagi作おばけシリーズ: カスタム ([出典][license-sanagi-ghost])
   * インポート前連絡: 不要
 * Slack絵文字ジェネレーターまたはMEGAMOJIで出力できる絵文字: 少なくとも日本国内においては著作権法上の著作物の定義[^1]に当たらないと考える余地がある。
-* `:blobcat_cut:`: CC BY-NC-ND 4.0 (`@07770_@mfmf.club`)
+* `:blobcat_cut:`: CC BY-NC-ND 4.0 (`@07770_@mfmf.club`, [出典][license-07770])
 * `:blobcat_pikapika`: カスタム、インポート不可 ([出典][license-midasuma])
 
 ## 参考
@@ -77,5 +77,5 @@
 [license-hatorui]: https://calc.rettuce.page/@rns_8i8/pages/hatorui-emoji
 [license-sanagi-ghost]: https://maniakey.homes/@sanagi/pages/1709985753046
 [license-midasuma]: https://nijimiss.moe/@midasuma/pages/1712047001830
+[license-07770]: https://misskey.backspace.fm/notes/9tcsoxkbkp
 
-[
